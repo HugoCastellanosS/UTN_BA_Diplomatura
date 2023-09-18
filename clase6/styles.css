@@ -1,0 +1,15 @@
+/*
+font-family: 'DM Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+p{
+    color: brown;
+    font-family:'Roboto', sans-serif;
+}
+
+h2{
+    color: green;
+    font-family: 'DM Sans', sans-serif
+;
+}

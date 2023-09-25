@@ -108,3 +108,57 @@ h2 {
     display: flex;
     justify-content: center;
 }
+
+/* Fin Home*/
+
+/* INICIO NOSOTROS*/
+
+.historia {
+    font-size: 13px;
+
+}
+
+.personas{
+    display: flex;
+    /* gap: 20px; */
+    justify-content: space-between;
+    
+}
+
+.persona{
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    width: 18%;
+    text-align: center;
+    padding: 10px 12px 5px;
+    box-sizing: border-box; /*se pone cuando se pone padding y border al tiempo*/
+
+}
+
+.persona img {
+    border-radius: 50%;
+    width: 50%;
+    box-shadow: 0 0 2px black;
+}
+
+.persona h5, .persona h6 {
+    margin: 0;
+    color: #2e64a1;
+    font-weight: normal;
+}
+
+.persona h5 {
+    font-size: 14px;
+}
+
+.persona h6 {
+    font-style: italic;
+}
+
+.persona p {
+    font-size: 11px;
+    text-align: left;
+}
+
+
+/* INICIO NOSOTROS*/

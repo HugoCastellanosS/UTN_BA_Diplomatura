@@ -12,6 +12,10 @@ header {
     padding: 16px 0; /*eje y - eje x*/
 }
 
+.logoholder img {
+    border-radius: 50%;
+}
+
 header h1 {
     color: white;
     font-weight: 300;
@@ -161,4 +165,4 @@ h2 {
 }
 
 
-/* INICIO NOSOTROS*/
+/* fin NOSOTROS*/
